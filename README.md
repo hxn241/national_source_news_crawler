@@ -12,4 +12,4 @@
 - 8 Los root_sources mensuales se intentan descargar desde primero de mes hasta que se haya publicado.
 - 9 Ejecución de report cada día a las 23:30 para comprobar los que fallan, y tener un control.
 
-** se ha obviado algunos archivos de configuración por contener login de los medios etc.**
+** se han obviado algunos archivos de configuración por contener login de los medios etc.**
